@@ -1,4 +1,4 @@
-# Motor Control System
+# INDUCTION-MOTOR-PROTECTION-USING-ARDUINO
 
 This project involves a control system for a motor, incorporating various sensors to monitor and control its operation based on temperature, current, and vibration levels. The system is designed using an Arduino microcontroller.
 
